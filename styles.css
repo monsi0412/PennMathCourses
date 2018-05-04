@@ -1,0 +1,61 @@
+
+body{
+    color:white;
+    /*background-color: #990000;*/
+}
+#coursesDiv{
+    background-color: #990000;
+}
+#shield{
+    height:300px;
+    position: fixed;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height:100px;
+}
+#footerRow{
+    background-color:#000f3a;
+    
+}
+#coursesTitle{
+    font-family: 'Parisienne', cursive;
+    font-size:80px;
+    text-align:center;
+}
+#myName{
+    font-family: 'Parisienne', cursive;
+    font-size:80px;
+    position: fixed;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#subtitle{
+    font-family: 'Open Sans', sans-serif;
+    position: fixed;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#probably{
+    font-family: 'Gentium Basic', serif;
+    position: fixed;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.course{
+    border-color: white;
+}
+.courseRow{
+    height:200px;
+}
+h3{
+    font-family: 'Open Sans', sans-serif;
+}
