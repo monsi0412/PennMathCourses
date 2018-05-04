@@ -59,3 +59,10 @@ body{
 h3{
     font-family: 'Open Sans', sans-serif;
 }
+h6{
+    font-family: 'Gentium Basic', serif;
+
+}
+.courseImg{
+    width:100px;
+}
