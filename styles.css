@@ -80,3 +80,10 @@ h6{
     float:right;
     opacity: 0.95;
 }
+.modal-title{
+    font-size:35px;
+}
+.modal-body{
+    font-size:18px;
+    text-align:justify;
+}
