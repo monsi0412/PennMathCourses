@@ -1,6 +1,5 @@
 body{
     color:white;
-    /*background-color: #990000;*/
 }
 #coursesDiv{
     background-color: #990000;
@@ -34,7 +33,7 @@ body{
     top: 60%;
     left: 50%;
     transform: translate(-50%, -50%);
-    text-shadow: 3px 3px 6px #000922;
+    text-shadow: 3px 3px 6px #00081e;
 }
 #subtitle{
     font-family: 'Open Sans', sans-serif;
@@ -80,6 +79,8 @@ h6{
     font-family: 'Open Sans', sans-serif;
     float:right;
     opacity: 0.95;
+    border:2px solid #C0C0C0;
+    text-shadow: 0.5px 0.5px 1px #000c2e;
 }
 .modal-title{
     font-size:35px;
